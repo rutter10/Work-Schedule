@@ -13,3 +13,4 @@ This webpage was used by taking existing funtions / moment formats and manipulat
 Link to Webpage: https://rutter10.github.io/Work-Schedule/
 
 Screen shot of webpage
+![Screenshot of Application](Work-Schedule-ScreenShot.png)
